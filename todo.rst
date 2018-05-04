@@ -25,6 +25,7 @@ From:
      - contextmanager
 
 ## Standard Library
+
  - os
  - logging
  - unittest
@@ -35,8 +36,7 @@ From:
 
  - numpy
  - matplotlib
-   - pyplot
-   - 
+      - pyplot
  - scipy
  - theano
  - keras
