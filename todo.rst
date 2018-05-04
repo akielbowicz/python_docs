@@ -23,14 +23,13 @@ From:
      - getfile
  - contextlib
      - contextmanager
-	 
-	 
-	 
+
 ## Standard Library
  - os
  - logging
  - unittest
- 
+ - re
+ - operator
 
 ## External libraries
 
@@ -49,6 +48,9 @@ From:
  - tensorflow
  - sympy
  - pandas
-
+ - requests
+ - BeautifulSoup
+ - robobrowser
+ - pdfplumber
 
 ## Micropython 
