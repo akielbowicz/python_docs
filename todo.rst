@@ -1,4 +1,7 @@
 # Modulos de Python para revisar
+
+From:
+
 ## Modern Python 
 
  - mypy
@@ -20,3 +23,32 @@
      - getfile
  - contextlib
      - contextmanager
+	 
+	 
+	 
+## Standard Library
+ - os
+ - logging
+ - unittest
+ 
+
+## External libraries
+
+ - numpy
+ - matplotlib
+   - pyplot
+   - 
+ - scipy
+ - theano
+ - keras
+ - networkx
+ - pyspark
+ - seaborn
+ - altair
+ - pytest
+ - tensorflow
+ - sympy
+ - pandas
+
+
+## Micropython 
