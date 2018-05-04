@@ -37,8 +37,7 @@ From:
 
  - numpy
  - matplotlib
-   - pyplot
-   - 
+      - pyplot
  - scipy
  - theano
  - keras
