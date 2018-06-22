@@ -1,2 +1,2 @@
-# python_docs
-Notebook collection in which I learn about the Python Libraries
+python_docs
+ Notebook collection in which I learn about the Python Libraries
