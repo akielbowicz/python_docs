@@ -1,56 +1,64 @@
-# Modulos de Python para revisar
+Modulos de Python para revisar
 
 From:
 
-## Modern Python 
+Modern Python 
 
- - mypy
- - pyflakes
+ - argparse
  - collections
+      - Counter
       - defaultdict
       - namedtuple
-      - Counter
- - glob
- - typing
- - argparse
- - py.test
+ - contextlib
+     - contextmanager
  - doctest
+ - glob
+ - inspect
+     - getfile
+     - getsource
+ - mypy
+ - py.test
+ - pyflakes
  - sys
      - settrace
      - version
- - inspect
-     - getsource
-     - getfile
- - contextlib
-     - contextmanager
+ - typing
 
-## Standard Library
+Standard Library
 
- - os
  - logging
- - unittest
- - re
  - operator
+ - os
+ - re
+ - unittest
 
-## External libraries
+External libraries
 
- - numpy
+ - altair
+ - BeautifulSoup
+ - cupy
+ - dask
+ - keras
  - matplotlib
       - pyplot
- - scipy
- - theano
- - keras
  - networkx
- - pyspark
- - seaborn
- - altair
- - pytest
- - tensorflow
- - sympy
+ - numba
+ - numpy
  - pandas
- - requests
- - BeautifulSoup
- - robobrowser
  - pdfplumber
+ - pyspark
+ - pytest
+ - requests
+ - robobrowser
+ - scikit-learn
+ - scikit-image
+ - scipy
+ - scrapy
+ - seaborn
+ - sympy
+ - tdda
+ - tensorflow
+ - theano
+ - yellowbrick
 
-## Micropython 
+Micropython 
